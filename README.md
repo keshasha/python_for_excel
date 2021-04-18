@@ -17,15 +17,16 @@
 - openpyxl  
 
 # Contents
-1. Benefits of automation using python
+1. Introduce
 2. Basic file handling
 3. Cell
 4. Cell - Advenced
 5. Additional Functions
-6. Scenario 1
+6. Scenario 1 : 특정 행, 열을 따로 엑셀 파일을 만들어 저장하기
 7. Scenario 2
+8. Other packages : Pandas
 
 
 # References
 - [파이썬 코딩 무료 강의 (활용편4) (YouTube)(kor)](https://www.youtube.com/watch?v=exgO1LFl9x8&list=WL&index=47&t=7111s)
-- [Official openpyxl documentation](https://openpyxl.readthedocs.io/)
+- [Official openpyxl document](https://openpyxl.readthedocs.io/)
