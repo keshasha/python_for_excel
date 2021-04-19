@@ -3,6 +3,11 @@ with open("sample.txt", "w") as f:
     read_data = f.read()
     print(read_data)
 
+f = open("sample.txt", "w")
+read_data = f.read()
+print(read_data)
+f.close()
+
 #%% openpyxl file create and save
 from openpyxl import Workbook
 
@@ -16,3 +21,4 @@ wb.close()
 #%% openpyxl file open
 from openpyxl import load_workbook
 wb = load_workbook('sample.xlsx')
+
