@@ -3,8 +3,11 @@
 - 엑셀을 다루려는 파이썬 유저를 위한 튜토리얼  
 
 # Purpose
-- It is started as part of a talent contribution for my friends who want to automate their excel work.   
+- It is started as part of a talent contribution for my friends who want to automate their excel work. 
 - 엑셀 업무를 자동화하고 싶어하는 내 친구들을 위해 재능기부의 일환으로 이 문서와 코드를 작성함.
+
+# Modifications
+- main topic : openpyxl -> pandas
 
 # Preparations
 - Python basic knowledge  
@@ -15,16 +18,16 @@
 # Requirements
 - python3  
 - openpyxl  
+- pandas 
 
 # Contents
 1. Introduce
-2. Basic file handling
-3. Cell
-4. Cell - Advenced
-5. Additional Functions
-6. Scenario 1 : 특정 행, 열을 따로 엑셀 파일을 만들어 저장하기
+2. File handling basic
+3. openpyxl
+4. pandas basic
+5. pandas advanced
+6. Scenario 1
 7. Scenario 2
-8. Other packages : Pandas
 
 
 # References

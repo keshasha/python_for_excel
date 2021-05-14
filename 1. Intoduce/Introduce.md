@@ -1,11 +1,10 @@
 # Excel에 Python 사용 목적
 
 ## 동일 작업 자동화
-
+- openpyxl
 ## 엑셀에서 제공하지 않는 데이터 분석
-
+- pandas
 ## 그 외 다른 Python 프로그램과 연동
-- Pandas
 - Numpy
 - Crawling
 
