@@ -1,3 +1,7 @@
+# workbook, active 개념
+# 여러 sheet를 포함 할 수 있는 하나의 xls 파일
+# active : 작업을 하기 위해 하나의 sheet를 선택하는 개념
+
 #%% openpyxl file create and save
 from openpyxl import Workbook
 
